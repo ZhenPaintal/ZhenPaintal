@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Zhen
-- 👀 I’m interested in learning to program comupter softwares and applications
-- 🌱 I’m currently learning front end development & JavaScript
-- 💞️ I’m looking to collaborate on learning opportunities and open source projects
-- 📫 How to reach me via [Linkedin](https://www.linkedin.com/in/zhenpaintal/)
+👋 Hi, I’m Zhen
 
 ---
 
